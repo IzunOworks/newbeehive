@@ -61,7 +61,7 @@ A NewbeeHive-style question only needs three things:
 
 - What you want to do
 - What you tried
-- What didnft work (or what you donft understand)
+- What didnâ€™t work (or what you donâ€™t understand)
 
 Precise technical terms are **not required**.
 
@@ -112,9 +112,9 @@ Answering questions is also considered
 
 Answers like these are welcome:
 
-- gIfm not completely sure, but this is how I understand ith
-- gI might be wrong, but this worked for meh
-- gI was stuck at the same pointh
+- â€œIâ€™m not completely sure, but this is how I understand itâ€
+- â€œI might be wrong, but this worked for meâ€
+- â€œI was stuck at the same pointâ€
 
 Trying to explain your understanding in your own words  
 can help deepen that understanding.
